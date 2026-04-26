@@ -36,7 +36,7 @@
 - **DEGREE:** `B.Tech — Final Year (Computer Science)`
 - **OS:** `Windows 11 → Migrating to Linux`
 - **CORE:** `Node.js / JavaScript (Strict)`
-- **PHILOSOPHY:** `[ Privacy == Freedom ]`
+- **PHILOSOPHY:** `[ Privacy === Freedom ]`
 - **APPROACH:** `ChatGPT · Claude · Gemini + VS Code AI suggestions`
 
 </td>
