@@ -115,7 +115,7 @@ currently_learning:
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| 🌐 [Portfolio](https://github.com/SniperRavan/sniperravan-portfolio) | Personal developer portfolio | HTML · CSS · JS | [View →](https://sniperravan.github.io/laughing-succotash/) |
+| 🌐 [Portfolio](https://github.com/SniperRavan/sniperravan-portfolio) | Personal developer portfolio | HTML · CSS · JS | [View →](https://sniperravan.github.io/sniperravan-portfolio/) |
 | 🧮 [Calculator](https://github.com/SniperRavan/Calculator-Most-Basic-) | Clean, minimal calculator app | HTML · CSS · JS | [View →](https://sniperravan.github.io/Calculator-Most-Basic-/) |
 | 📰 [Akash Varta](https://github.com/SniperRavan/Akash-Varta) | News / blog web application | HTML · CSS · JS | — |
 | 🚀 [Supreme Journey](https://github.com/SniperRavan/supreme-journey) | Web project — journey theme | HTML · CSS · JS | [View →](https://sniperravan.github.io/supreme-journey/) |
