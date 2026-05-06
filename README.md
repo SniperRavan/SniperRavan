@@ -36,7 +36,7 @@ Full-stack developer in progress. Focused on low-latency backends, privacy-harde
 | Field | Value |
 |---|---|
 | 🎓 Degree | `B.Tech — Final Year (Computer Science)` |
-| 🖥️ OS | `Windows 11 → Migrating to Linux` |
+| 🖥️ OS | `Debian 13 kde` |
 | ⚙️ Core | `Node.js / JavaScript (Strict Mode)` |
 | 📐 Philosophy | `[ Privacy === Freedom ]` |
 | 🛠️ Editor | `Neovim + VS Code` |
