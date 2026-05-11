@@ -125,11 +125,11 @@ currently_learning:
 ## ▸ GITHUB ANALYTICS
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sniperravan&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sniperravan&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sniperravan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=cccccc&dates=888888" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sniperravan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=cccccc&dates=888888" width="60%" />
 </p>
 
 ---
