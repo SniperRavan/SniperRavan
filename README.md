@@ -129,11 +129,6 @@ currently_learning:
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sniperravan&show_icons=true&theme=github_dark&hide_border=true&title_color=39d353&text_color=cccccc&icon_color=39d353&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sniperravan&layout=compact&theme=github_dark&hide_border=true&title_color=39d353&text_color=cccccc&icon_color=39d353&bg_color=0d1117" width="48%" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sniperravan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=cccccc&dates=888888" width="60%" />
 </p>
 
