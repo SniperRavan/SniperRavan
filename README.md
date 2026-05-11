@@ -79,7 +79,7 @@ currently_learning:
 ## ▸ TECH ARSENAL
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,firebase,supabase,linux,bash,git,github,svg,vscode,nvim&theme=dark&perline=14" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,firebase,supabase,linux,bash,git,github,svg,vscode,neovim&theme=dark&perline=14" />
 </p>
 
 <p align="center">
