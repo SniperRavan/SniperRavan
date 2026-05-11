@@ -162,7 +162,7 @@ $ ping sniperravan --open-to collaborate,debug,ship
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://sniperravan.github.io/laughing-succotash/">
+<a href="https://sniperravan.github.io/sniperravan-portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=39d353" />
 </a>
 
