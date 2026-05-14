@@ -129,8 +129,12 @@ currently_learning:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sniperravan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=cccccc&dates=888888" width="60%" />
+  <img src="
+http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sniperravan&theme=gotham&utcOffset=8" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sniperravan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=cccccc&dates=888888" width="100%" />
 
 ---
 
