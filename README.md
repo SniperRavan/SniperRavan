@@ -2,7 +2,7 @@
 <tr>
 <td width="60%" valign="middle">
 
-# Hi, I'm SNIPER RAVAN &nbsp;<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" />
+# Hi, I'm Akash &nbsp;<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=39d353&vCenter=true&width=560&lines=Full-Stack+Developer+%7C+B.Tech+CS;Building+Privacy-First+Web+Apps;Node.js+%7C+JavaScript+(Strict+Mode);Shipping+real+things+that+actually+work.;[+Privacy+%3D%3D%3D+Freedom+]" />
 
