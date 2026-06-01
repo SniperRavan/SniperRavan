@@ -31,7 +31,7 @@
 
 > *"I don't know everything — but I'm building everything anyway."*
 
-Full-stack developer in progress. Focused on low-latency backends, privacy-hardened logic, and shipping things that actually work. Currently deep-diving JavaScript and system architecture while migrating to Linux.
+Full-stack developer in progress. Focused on low-latency backends, privacy-hardened logic, and shipping things that actually work. Currently deep-diving JavaScript and system architecture & now finally migrated to Linux.
 
 | Field | Value |
 |---|---|
