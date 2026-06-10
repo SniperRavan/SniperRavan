@@ -120,6 +120,8 @@ currently_learning:
 | 📰 [Akash Varta](https://github.com/SniperRavan/Akash-Varta) | News / blog web application | HTML · CSS · JS | — |
 | 🚀 [Supreme Journey](https://github.com/SniperRavan/supreme-journey) | Web project — journey theme | HTML · CSS · JS | [View →](https://sniperravan.github.io/supreme-journey/) |
 
+| 🔍 [College project](https://github.com/SniperRavan/reclaimx) | My college final uear project| HTML · CSS · JS | [View →](https://reclaimx-chi.vercel.app) |
+
 ---
 
 ## ▸ GITHUB ANALYTICS
